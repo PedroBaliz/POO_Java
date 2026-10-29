@@ -1,2 +1,2 @@
-# atvs_POO
+# POO_Java
 Atividades de programação orientada a objetos.
